@@ -1,0 +1,902 @@
+[
+  {
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "reponse": "1939",
+    "indices": [
+      "1945",
+      "1940",
+      "1936"
+    ]
+  },
+  {
+    "question": "Quel est l’unité de mesure de la force ?",
+    "reponse": "Newton",
+    "indices": [
+      "Pascal",
+      "Joule",
+      "Watt"
+    ]
+  },
+  {
+    "question": "Où se trouve l’ADN dans la cellule ?",
+    "reponse": "Dans le noyau",
+    "indices": [
+      "Dans le cytoplasme",
+      "Dans la membrane",
+      "Dans le ribosome"
+    ]
+  },
+  {
+    "question": "Quelle est l’unité de base de l’information en informatique ?",
+    "reponse": "Bit",
+    "indices": [
+      "Octet",
+      "Pixel",
+      "Byte"
+    ]
+  },
+  {
+    "question": "Quelle est l’unité de base de l’information en informatique ?",
+    "reponse": "Bit",
+    "indices": [
+      "Octet",
+      "Pixel",
+      "Byte"
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme HTML ?",
+    "reponse": "HyperText Markup Language",
+    "indices": [
+      "HighText Machine Language",
+      "HyperTool Markup Language",
+      "HyperText Markdown Language"
+    ]
+  },
+  {
+    "question": "Quel est le langage de programmation principal utilisé pour le web côté client ?",
+    "reponse": "JavaScript",
+    "indices": [
+      "PHP",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "question": "Quel organe humain est responsable de la filtration du sang ?",
+    "reponse": "Les reins",
+    "indices": [
+      "Les poumons",
+      "Le foie",
+      "Le cœur"
+    ]
+  },
+  {
+    "question": "Quel mur est tombé en 1989 ?",
+    "reponse": "Le mur de Berlin",
+    "indices": [
+      "Le mur de Chine",
+      "Le mur d’Hadrien",
+      "Le mur de Staline"
+    ]
+  },
+  {
+    "question": "Où se trouve l’ADN dans la cellule ?",
+    "reponse": "Dans le noyau",
+    "indices": [
+      "Dans le cytoplasme",
+      "Dans la membrane",
+      "Dans le ribosome"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponse": "Mercure",
+    "indices": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Quel est le système d’exploitation open-source basé sur Unix ?",
+    "reponse": "Linux",
+    "indices": [
+      "DOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "question": "Quel organe humain est responsable de la filtration du sang ?",
+    "reponse": "Les reins",
+    "indices": [
+      "Les poumons",
+      "Le foie",
+      "Le cœur"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on l’étude des êtres vivants ?",
+    "reponse": "La biologie",
+    "indices": [
+      "L’écologie",
+      "La physique",
+      "La chimie"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponse": "Mercure",
+    "indices": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Que mesure un thermomètre ?",
+    "reponse": "La température",
+    "indices": [
+      "La vitesse",
+      "La pression",
+      "Le poids"
+    ]
+  },
+  {
+    "question": "Quel est l’unité de mesure de la force ?",
+    "reponse": "Newton",
+    "indices": [
+      "Pascal",
+      "Joule",
+      "Watt"
+    ]
+  },
+  {
+    "question": "Quelle entreprise développe le système d’exploitation Windows ?",
+    "reponse": "Microsoft",
+    "indices": [
+      "Google",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "Combien de couleurs compose l’arc-en-ciel ?",
+    "reponse": "7",
+    "indices": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Quel gaz est nécessaire à la respiration humaine ?",
+    "reponse": "Oxygène",
+    "indices": [
+      "Hélium",
+      "Hydrogène",
+      "Azote"
+    ]
+  },
+  {
+    "question": "Combien d’os contient le corps humain adulte ?",
+    "reponse": "206",
+    "indices": [
+      "198",
+      "210",
+      "205"
+    ]
+  },
+  {
+    "question": "Quel pays a été dirigé par Napoléon Bonaparte ?",
+    "reponse": "France",
+    "indices": [
+      "Italie",
+      "Espagne",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on l’étude des êtres vivants ?",
+    "reponse": "La biologie",
+    "indices": [
+      "L’écologie",
+      "La physique",
+      "La chimie"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponse": "Mercure",
+    "indices": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Quel gaz est nécessaire à la respiration humaine ?",
+    "reponse": "Oxygène",
+    "indices": [
+      "Hélium",
+      "Hydrogène",
+      "Azote"
+    ]
+  },
+  {
+    "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+    "reponse": "Hémoglobine",
+    "indices": [
+      "Chlorophylle",
+      "Insuline",
+      "Myoglobine"
+    ]
+  },
+  {
+    "question": "Quel pays a été dirigé par Napoléon Bonaparte ?",
+    "reponse": "France",
+    "indices": [
+      "Italie",
+      "Espagne",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Quel est le langage de programmation principal utilisé pour le web côté client ?",
+    "reponse": "JavaScript",
+    "indices": [
+      "PHP",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "question": "Combien de couleurs compose l’arc-en-ciel ?",
+    "reponse": "7",
+    "indices": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Quelle entreprise développe le système d’exploitation Windows ?",
+    "reponse": "Microsoft",
+    "indices": [
+      "Google",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+    "reponse": "Hémoglobine",
+    "indices": [
+      "Chlorophylle",
+      "Insuline",
+      "Myoglobine"
+    ]
+  },
+  {
+    "question": "Quel mur est tombé en 1989 ?",
+    "reponse": "Le mur de Berlin",
+    "indices": [
+      "Le mur de Chine",
+      "Le mur d’Hadrien",
+      "Le mur de Staline"
+    ]
+  },
+  {
+    "question": "Quel gaz est nécessaire à la respiration humaine ?",
+    "reponse": "Oxygène",
+    "indices": [
+      "Hélium",
+      "Hydrogène",
+      "Azote"
+    ]
+  },
+  {
+    "question": "Quel est l’unité de mesure de la force ?",
+    "reponse": "Newton",
+    "indices": [
+      "Pascal",
+      "Joule",
+      "Watt"
+    ]
+  },
+  {
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "reponse": "1939",
+    "indices": [
+      "1945",
+      "1940",
+      "1936"
+    ]
+  },
+  {
+    "question": "Quel gaz est nécessaire à la respiration humaine ?",
+    "reponse": "Oxygène",
+    "indices": [
+      "Hélium",
+      "Hydrogène",
+      "Azote"
+    ]
+  },
+  {
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "reponse": "Christophe Colomb",
+    "indices": [
+      "Vasco de Gama",
+      "Marco Polo",
+      "Fernand de Magellan"
+    ]
+  },
+  {
+    "question": "Quelle est l’unité de base de l’information en informatique ?",
+    "reponse": "Bit",
+    "indices": [
+      "Octet",
+      "Pixel",
+      "Byte"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on l’étude des êtres vivants ?",
+    "reponse": "La biologie",
+    "indices": [
+      "L’écologie",
+      "La physique",
+      "La chimie"
+    ]
+  },
+  {
+    "question": "Qui était le premier empereur de Rome ?",
+    "reponse": "Auguste",
+    "indices": [
+      "Néron",
+      "Caligula",
+      "Jules César"
+    ]
+  },
+  {
+    "question": "Quel est le système d’exploitation open-source basé sur Unix ?",
+    "reponse": "Linux",
+    "indices": [
+      "DOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "question": "Quel pays a été dirigé par Napoléon Bonaparte ?",
+    "reponse": "France",
+    "indices": [
+      "Italie",
+      "Espagne",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Quel pays a été dirigé par Napoléon Bonaparte ?",
+    "reponse": "France",
+    "indices": [
+      "Italie",
+      "Espagne",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "reponse": "Christophe Colomb",
+    "indices": [
+      "Vasco de Gama",
+      "Marco Polo",
+      "Fernand de Magellan"
+    ]
+  },
+  {
+    "question": "Où se trouve l’ADN dans la cellule ?",
+    "reponse": "Dans le noyau",
+    "indices": [
+      "Dans le cytoplasme",
+      "Dans la membrane",
+      "Dans le ribosome"
+    ]
+  },
+  {
+    "question": "Quel est le système d’exploitation open-source basé sur Unix ?",
+    "reponse": "Linux",
+    "indices": [
+      "DOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "question": "Qui était le premier empereur de Rome ?",
+    "reponse": "Auguste",
+    "indices": [
+      "Néron",
+      "Caligula",
+      "Jules César"
+    ]
+  },
+  {
+    "question": "Quel organe humain est responsable de la filtration du sang ?",
+    "reponse": "Les reins",
+    "indices": [
+      "Les poumons",
+      "Le foie",
+      "Le cœur"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponse": "Mercure",
+    "indices": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Qui était le premier empereur de Rome ?",
+    "reponse": "Auguste",
+    "indices": [
+      "Néron",
+      "Caligula",
+      "Jules César"
+    ]
+  },
+  {
+    "question": "Combien d’os contient le corps humain adulte ?",
+    "reponse": "206",
+    "indices": [
+      "198",
+      "210",
+      "205"
+    ]
+  },
+  {
+    "question": "Où se trouve l’ADN dans la cellule ?",
+    "reponse": "Dans le noyau",
+    "indices": [
+      "Dans le cytoplasme",
+      "Dans la membrane",
+      "Dans le ribosome"
+    ]
+  },
+  {
+    "question": "Quel mur est tombé en 1989 ?",
+    "reponse": "Le mur de Berlin",
+    "indices": [
+      "Le mur de Chine",
+      "Le mur d’Hadrien",
+      "Le mur de Staline"
+    ]
+  },
+  {
+    "question": "Quel est le langage de programmation principal utilisé pour le web côté client ?",
+    "reponse": "JavaScript",
+    "indices": [
+      "PHP",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+    "reponse": "Hémoglobine",
+    "indices": [
+      "Chlorophylle",
+      "Insuline",
+      "Myoglobine"
+    ]
+  },
+  {
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "reponse": "Christophe Colomb",
+    "indices": [
+      "Vasco de Gama",
+      "Marco Polo",
+      "Fernand de Magellan"
+    ]
+  },
+  {
+    "question": "Quel mur est tombé en 1989 ?",
+    "reponse": "Le mur de Berlin",
+    "indices": [
+      "Le mur de Chine",
+      "Le mur d’Hadrien",
+      "Le mur de Staline"
+    ]
+  },
+  {
+    "question": "Quel est l’unité de mesure de la force ?",
+    "reponse": "Newton",
+    "indices": [
+      "Pascal",
+      "Joule",
+      "Watt"
+    ]
+  },
+  {
+    "question": "Quel pays a été dirigé par Napoléon Bonaparte ?",
+    "reponse": "France",
+    "indices": [
+      "Italie",
+      "Espagne",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Que mesure un thermomètre ?",
+    "reponse": "La température",
+    "indices": [
+      "La vitesse",
+      "La pression",
+      "Le poids"
+    ]
+  },
+  {
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "reponse": "Christophe Colomb",
+    "indices": [
+      "Vasco de Gama",
+      "Marco Polo",
+      "Fernand de Magellan"
+    ]
+  },
+  {
+    "question": "Quelle est l’unité de base de l’information en informatique ?",
+    "reponse": "Bit",
+    "indices": [
+      "Octet",
+      "Pixel",
+      "Byte"
+    ]
+  },
+  {
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "reponse": "1939",
+    "indices": [
+      "1945",
+      "1940",
+      "1936"
+    ]
+  },
+  {
+    "question": "Quel organe humain est responsable de la filtration du sang ?",
+    "reponse": "Les reins",
+    "indices": [
+      "Les poumons",
+      "Le foie",
+      "Le cœur"
+    ]
+  },
+  {
+    "question": "Quelle entreprise développe le système d’exploitation Windows ?",
+    "reponse": "Microsoft",
+    "indices": [
+      "Google",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme HTML ?",
+    "reponse": "HyperText Markup Language",
+    "indices": [
+      "HighText Machine Language",
+      "HyperTool Markup Language",
+      "HyperText Markdown Language"
+    ]
+  },
+  {
+    "question": "Quel est le système d’exploitation open-source basé sur Unix ?",
+    "reponse": "Linux",
+    "indices": [
+      "DOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "question": "Que mesure un thermomètre ?",
+    "reponse": "La température",
+    "indices": [
+      "La vitesse",
+      "La pression",
+      "Le poids"
+    ]
+  },
+  {
+    "question": "Quel est le système d’exploitation open-source basé sur Unix ?",
+    "reponse": "Linux",
+    "indices": [
+      "DOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "question": "Où se trouve l’ADN dans la cellule ?",
+    "reponse": "Dans le noyau",
+    "indices": [
+      "Dans le cytoplasme",
+      "Dans la membrane",
+      "Dans le ribosome"
+    ]
+  },
+  {
+    "question": "Quel est le langage de programmation principal utilisé pour le web côté client ?",
+    "reponse": "JavaScript",
+    "indices": [
+      "PHP",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "question": "Combien de couleurs compose l’arc-en-ciel ?",
+    "reponse": "7",
+    "indices": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+    "reponse": "Hémoglobine",
+    "indices": [
+      "Chlorophylle",
+      "Insuline",
+      "Myoglobine"
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme HTML ?",
+    "reponse": "HyperText Markup Language",
+    "indices": [
+      "HighText Machine Language",
+      "HyperTool Markup Language",
+      "HyperText Markdown Language"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on l’étude des êtres vivants ?",
+    "reponse": "La biologie",
+    "indices": [
+      "L’écologie",
+      "La physique",
+      "La chimie"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on l’étude des êtres vivants ?",
+    "reponse": "La biologie",
+    "indices": [
+      "L’écologie",
+      "La physique",
+      "La chimie"
+    ]
+  },
+  {
+    "question": "Que mesure un thermomètre ?",
+    "reponse": "La température",
+    "indices": [
+      "La vitesse",
+      "La pression",
+      "Le poids"
+    ]
+  },
+  {
+    "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+    "reponse": "Hémoglobine",
+    "indices": [
+      "Chlorophylle",
+      "Insuline",
+      "Myoglobine"
+    ]
+  },
+  {
+    "question": "Quel est l’unité de mesure de la force ?",
+    "reponse": "Newton",
+    "indices": [
+      "Pascal",
+      "Joule",
+      "Watt"
+    ]
+  },
+  {
+    "question": "Combien de couleurs compose l’arc-en-ciel ?",
+    "reponse": "7",
+    "indices": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Quelle entreprise développe le système d’exploitation Windows ?",
+    "reponse": "Microsoft",
+    "indices": [
+      "Google",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "Combien d’os contient le corps humain adulte ?",
+    "reponse": "206",
+    "indices": [
+      "198",
+      "210",
+      "205"
+    ]
+  },
+  {
+    "question": "Quel est le langage de programmation principal utilisé pour le web côté client ?",
+    "reponse": "JavaScript",
+    "indices": [
+      "PHP",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "question": "Que mesure un thermomètre ?",
+    "reponse": "La température",
+    "indices": [
+      "La vitesse",
+      "La pression",
+      "Le poids"
+    ]
+  },
+  {
+    "question": "Combien de couleurs compose l’arc-en-ciel ?",
+    "reponse": "7",
+    "indices": [
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Quel organe humain est responsable de la filtration du sang ?",
+    "reponse": "Les reins",
+    "indices": [
+      "Les poumons",
+      "Le foie",
+      "Le cœur"
+    ]
+  },
+  {
+    "question": "Quel gaz est nécessaire à la respiration humaine ?",
+    "reponse": "Oxygène",
+    "indices": [
+      "Hélium",
+      "Hydrogène",
+      "Azote"
+    ]
+  },
+  {
+    "question": "Quelle entreprise développe le système d’exploitation Windows ?",
+    "reponse": "Microsoft",
+    "indices": [
+      "Google",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "reponse": "1939",
+    "indices": [
+      "1945",
+      "1940",
+      "1936"
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme HTML ?",
+    "reponse": "HyperText Markup Language",
+    "indices": [
+      "HighText Machine Language",
+      "HyperTool Markup Language",
+      "HyperText Markdown Language"
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme HTML ?",
+    "reponse": "HyperText Markup Language",
+    "indices": [
+      "HighText Machine Language",
+      "HyperTool Markup Language",
+      "HyperText Markdown Language"
+    ]
+  },
+  {
+    "question": "Qui a découvert l’Amérique en 1492 ?",
+    "reponse": "Christophe Colomb",
+    "indices": [
+      "Vasco de Gama",
+      "Marco Polo",
+      "Fernand de Magellan"
+    ]
+  },
+  {
+    "question": "Quel mur est tombé en 1989 ?",
+    "reponse": "Le mur de Berlin",
+    "indices": [
+      "Le mur de Chine",
+      "Le mur d’Hadrien",
+      "Le mur de Staline"
+    ]
+  },
+  {
+    "question": "Quelle est l’unité de base de l’information en informatique ?",
+    "reponse": "Bit",
+    "indices": [
+      "Octet",
+      "Pixel",
+      "Byte"
+    ]
+  },
+  {
+    "question": "Combien d’os contient le corps humain adulte ?",
+    "reponse": "206",
+    "indices": [
+      "198",
+      "210",
+      "205"
+    ]
+  },
+  {
+    "question": "Qui était le premier empereur de Rome ?",
+    "reponse": "Auguste",
+    "indices": [
+      "Néron",
+      "Caligula",
+      "Jules César"
+    ]
+  },
+  {
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "reponse": "1939",
+    "indices": [
+      "1945",
+      "1940",
+      "1936"
+    ]
+  },
+  {
+    "question": "Qui était le premier empereur de Rome ?",
+    "reponse": "Auguste",
+    "indices": [
+      "Néron",
+      "Caligula",
+      "Jules César"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "reponse": "Mercure",
+    "indices": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Combien d’os contient le corps humain adulte ?",
+    "reponse": "206",
+    "indices": [
+      "198",
+      "210",
+      "205"
+    ]
+  }
+]
