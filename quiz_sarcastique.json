@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "spicy_1",
+    "question": "Tu préfères coder à quelle heure ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Tard la nuit",
+        "message": "Parce que tu es un vampire du code, évidemment 🧛‍♂️"
+      },
+      {
+        "id": "a2",
+        "text": "Tôt le matin",
+        "message": "Toi t’es bizarre... qui se lève tôt volontairement ?"
+      },
+      {
+        "id": "a3",
+        "text": "Pendant les réunions inutiles",
+        "message": "Voilà un développeur efficace 😎"
+      }
+    ]
+  },
+  {
+    "id": "spicy_2",
+    "question": "Tu fais quoi quand une appli plante ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre",
+        "message": "Ah oui, la méthode Windows 98 !"
+      },
+      {
+        "id": "a2",
+        "text": "Je cherche l’erreur",
+        "message": "Tu crois que t’es un détective toi ? 🕵️‍♂️"
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure",
+        "message": "Au moins c’est honnête 😭"
+      }
+    ]
+  },
+  {
+    "id": "spicy_3",
+    "question": "Pourquoi as-tu commencé la programmation ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Pour l'argent",
+        "message": "Erreur 404: salaire non trouvé 😐"
+      },
+      {
+        "id": "a2",
+        "text": "Par passion",
+        "message": "Ah, l'illusion de la passion éternelle !"
+      },
+      {
+        "id": "a3",
+        "text": "Je sais pas",
+        "message": "C’est ce qu’on appelle une vocation involontaire."
+      }
+    ]
+  },
+  {
+    "id": "spicy_4",
+    "question": "Quelle est ta relation avec le bug ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "On est en couple",
+        "message": "Et même mariés depuis le premier `null`."
+      },
+      {
+        "id": "a2",
+        "text": "Je les extermine",
+        "message": "Bravo Van Helsing du code."
+      },
+      {
+        "id": "a3",
+        "text": "C’est compliqué",
+        "message": "Facebook a rejoint la discussion."
+      }
+    ]
+  },
+  {
+    "id": "spicy_5",
+    "question": "Ta musique de dev préférée ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_6",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_7",
+    "question": "Tu lis la doc quand ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_8",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_9",
+    "question": "T’aimes les tests unitaires ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_10",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      }
+    ]
+  },
+  {
+    "id": "spicy_11",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_12",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_13",
+    "question": "Ta musique de dev préférée ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_14",
+    "question": "Ton éditeur préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_15",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_16",
+    "question": "Tu te vois où dans 10 sprints ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_17",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_18",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_19",
+    "question": "Ton plus grand bug honteux ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_20",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_21",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_22",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_23",
+    "question": "T’aimes les tests unitaires ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_24",
+    "question": "Ta musique de dev préférée ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_25",
+    "question": "Un stagiaire casse tout, tu fais quoi ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_26",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_27",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_28",
+    "question": "Ton pire langage ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_29",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_30",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_31",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_32",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_33",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_34",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_35",
+    "question": "Ton éditeur préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_36",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_37",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_38",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_39",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_40",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_41",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      }
+    ]
+  },
+  {
+    "id": "spicy_42",
+    "question": "Ta musique de dev préférée ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_43",
+    "question": "Quelle est ta première action le matin ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      }
+    ]
+  },
+  {
+    "id": "spicy_44",
+    "question": "Tu te vois où dans 10 sprints ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_45",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_46",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_47",
+    "question": "Ton éditeur préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_48",
+    "question": "Ton clavier est...",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_49",
+    "question": "T’aimes les tests unitaires ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_50",
+    "question": "Quelle est ta première action le matin ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_51",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_52",
+    "question": "Tu lis la doc quand ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_53",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_54",
+    "question": "Ton pire langage ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_55",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_56",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_57",
+    "question": "Ton plus grand bug honteux ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_58",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_59",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_60",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_61",
+    "question": "Quelle est ta boisson préférée en codant ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_62",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_63",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_64",
+    "question": "Ton plus grand bug honteux ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      }
+    ]
+  },
+  {
+    "id": "spicy_65",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_66",
+    "question": "Tu lis la doc quand ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_67",
+    "question": "Un stagiaire casse tout, tu fais quoi ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_68",
+    "question": "Ton plus grand bug honteux ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      }
+    ]
+  },
+  {
+    "id": "spicy_69",
+    "question": "Que penses-tu de Stack Overflow ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_70",
+    "question": "Ton pire langage ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_71",
+    "question": "Ton pire langage ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_72",
+    "question": "Que fais-tu quand Git te trahit ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_73",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_74",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_75",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_76",
+    "question": "Quand un bug se reproduit plus en démo ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_77",
+    "question": "Ton plus grand bug honteux ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_78",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_79",
+    "question": "Tu te vois où dans 10 sprints ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_80",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_81",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_82",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_83",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      }
+    ]
+  },
+  {
+    "id": "spicy_84",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      }
+    ]
+  },
+  {
+    "id": "spicy_85",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_86",
+    "question": "Tu fais quoi quand tu vois 'undefined is not a function' ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_87",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  },
+  {
+    "id": "spicy_88",
+    "question": "Tu lis la doc quand ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      }
+    ]
+  },
+  {
+    "id": "spicy_89",
+    "question": "Un stagiaire casse tout, tu fais quoi ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_90",
+    "question": "Ton éditeur préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_91",
+    "question": "Que fais-tu quand Git te trahit ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_92",
+    "question": "Quelle est ta boisson préférée en codant ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a2",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      },
+      {
+        "id": "a3",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      }
+    ]
+  },
+  {
+    "id": "spicy_93",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_94",
+    "question": "Que penses-tu des commentaires dans le code ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_95",
+    "question": "Quand as-tu fini un projet en temps ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je blame le stagiaire",
+        "message": "Classique et efficace."
+      }
+    ]
+  },
+  {
+    "id": "spicy_96",
+    "question": "Pourquoi t’as choisi ce métier ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      },
+      {
+        "id": "a2",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_97",
+    "question": "Quelle est ta première action le matin ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je panique",
+        "message": "Enfin une réponse honnête 🙃"
+      },
+      {
+        "id": "a2",
+        "text": "Je demande à un collègue",
+        "message": "Tu veux dire que tu fais semblant d’avoir un bug ?"
+      },
+      {
+        "id": "a3",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      }
+    ]
+  },
+  {
+    "id": "spicy_98",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a2",
+        "text": "Je copie-colle de Stack Overflow",
+        "message": "Toi t’as compris la vie."
+      },
+      {
+        "id": "a3",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      }
+    ]
+  },
+  {
+    "id": "spicy_99",
+    "question": "Ta technique pour débugger ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je pleure dans un coin",
+        "message": "C’est beau d’être vulnérable."
+      },
+      {
+        "id": "a2",
+        "text": "Je redémarre l’ordi",
+        "message": "Méthode traditionnelle validée."
+      },
+      {
+        "id": "a3",
+        "text": "Je fuis",
+        "message": "Respect. Peu le font, tous y pensent."
+      }
+    ]
+  },
+  {
+    "id": "spicy_100",
+    "question": "Ton framework préféré ?",
+    "answers": [
+      {
+        "id": "a1",
+        "text": "Je bois un café",
+        "message": "Un café, et le problème disparaît. Ou pas."
+      },
+      {
+        "id": "a2",
+        "text": "Je regarde ailleurs",
+        "message": "Ignorer le problème, c’est déjà une solution."
+      },
+      {
+        "id": "a3",
+        "text": "Je médite",
+        "message": "Zen... jusqu’à la prochaine erreur fatale."
+      }
+    ]
+  }
+]
