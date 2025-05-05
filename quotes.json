@@ -105,6 +105,82 @@
       },
       "category": "inspirational",
       "tags": ["creativity", "knowledge"]
+    },
+    {
+      "id": "quote_8",
+      "translations": {
+        "en": "Hold fast to dreams, for if dreams die, life is a broken winged bird that cannot fly.",
+        "fr": "Accroche-toi à tes rêves, car si les rêves meurent, la vie devient un oiseau à l'aile brisée qui ne peut voler.",
+        "ko": "꿈을 굳게 잡아라. 꿈이 죽으면, 삶은 날개가 부러져 날 수 없는 새와 같다."
+      },
+      "from": {
+        "en": "Langston Hughes",
+        "fr": "Langston Hughes",
+        "ko": "랭스턴 휴즈"
+      },
+      "category": "inspirational",
+      "tags": ["dreams", "perseverance"]
+    },
+    {
+      "id": "quote_9",
+      "translations": {
+        "en": "The future belongs to those who believe in the beauty of their dreams.",
+        "fr": "L'avenir appartient à ceux qui croient en la beauté de leurs rêves.",
+        "ko": "미래는 자신의 꿈의 아름다움을 믿는 이들에게 속한다."
+      },
+      "from": {
+        "en": "Eleanor Roosevelt",
+        "fr": "Eleanor Roosevelt",
+        "ko": "엘리너 루즈벨트"
+      },
+      "category": "motivational",
+      "tags": ["future", "dreams"]
+    },
+    {
+      "id": "quote_10",
+      "translations": {
+        "en": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+        "fr": "Avance avec confiance vers tes rêves. Vis la vie que tu as imaginée.",
+        "ko": "자신의 꿈이 이끄는 방향으로 확신을 가지고 나아가라. 상상했던 삶을 살아라."
+      },
+      "from": {
+        "en": "Henry David Thoreau",
+        "fr": "Henry David Thoreau",
+        "ko": "헨리 데이비드 소로"
+      },
+      "category": "motivational",
+      "tags": ["confidence", "life"]
+    },
+    {
+      "id": "quote_11",
+      "translations": {
+        "en": "You cannot depend on your eyes when your imagination is out of focus.",
+        "fr": "Tu ne peux pas compter sur tes yeux quand ton imagination est floue.",
+        "ko": "상상력이 흐릿할 때는 눈을 의지할 수 없다."
+      },
+      "from": {
+        "en": "Mark Twain",
+        "fr": "Mark Twain",
+        "ko": "마크 트웨인"
+      },
+      "category": "inspirational",
+      "tags": ["imagination", "perception"]
+    },
+    {
+      "id": "quote_12",
+      "translations": {
+        "en": "Commitment leads to action. Action brings your dream closer.",
+        "fr": "L'engagement mène à l'action. L'action rapproche ton rêve.",
+        "ko": "헌신은 행동으로 이어진다. 행동은 꿈을 가까이 한다."
+      },
+      "from": {
+        "en": "Marcia Wieder",
+        "fr": "Marcia Wieder",
+        "ko": "마르시아 위더"
+      },
+      "category": "motivational",
+      "tags": ["action", "determination"]
     }
+    
   ]
 }
