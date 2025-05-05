@@ -1,16 +1,110 @@
 {
-  "last_updated": "2024-06-15T12:00:00Z",
+  "last_updated": "2024-06-15T14:30:00Z",
   "quotes": [
     {
-      "id": "unique_id_1",
+      "id": "quote_1",
       "translations": {
-        "en": "English text",
-        "fr": "Texte français",
-        "ko": "한국어 텍스트"
+        "en": "The only people who never fail are those who never try.",
+        "fr": "Les seules personnes qui ne connaissent jamais l'échec sont celles qui n'essaient jamais.",
+        "ko": "시도하지 않는 사람만이 실패하지 않는다."
       },
-      "from": "Author",
-      "tags": ["motivation", "success"],
-      "category": "motivational" // ou "spicy"
+      "from": {
+        "en": "Ilka Chase",
+        "fr": "Ilka Chase",
+        "ko": "일카 체이스"
+      },
+      "category": "motivational",
+      "tags": ["failure", "success", "attempt"]
+    },
+    {
+      "id": "quote_2",
+      "translations": {
+        "en": "Failure is just another way to learn how to do something right.",
+        "fr": "L'échec est simplement une autre manière d'apprendre à faire les choses correctement.",
+        "ko": "실패는 올바르게 하는 법을 배우는 또 다른 길이다."
+      },
+      "from": {
+        "en": "Marian Wright Edelman",
+        "fr": "Marian Wright Edelman",
+        "ko": "매리언 라이트 에델먼"
+      },
+      "category": "motivational",
+      "tags": ["failure", "learning"]
+    },
+    {
+      "id": "quote_3",
+      "translations": {
+        "en": "I failed my way to success.",
+        "fr": "J'ai échoué mon chemin vers le succès.",
+        "ko": "나는 실패를 통해 성공에 이르렀다."
+      },
+      "from": {
+        "en": "Thomas Edison",
+        "fr": "Thomas Edison",
+        "ko": "토머스 에디슨"
+      },
+      "category": "motivational",
+      "tags": ["failure", "perseverance"]
+    },
+    {
+      "id": "quote_4",
+      "translations": {
+        "en": "Every failure brings with it the seed of an equivalent success.",
+        "fr": "Chaque échec contient en lui le germe d'un succès équivalent.",
+        "ko": "모든 실패에는 그에 상응하는 성공의 씨앗이 들어 있다."
+      },
+      "from": {
+        "en": "Napoleon Hill",
+        "fr": "Napoleon Hill",
+        "ko": "나폴레온 힐"
+      },
+      "category": "motivational",
+      "tags": ["failure", "growth"]
+    },
+    {
+      "id": "quote_5",
+      "translations": {
+        "en": "Only those who dare to fail greatly can ever achieve greatly.",
+        "fr": "Seuls ceux qui osent échouer de manière spectaculaire peuvent accomplir de grandes choses.",
+        "ko": "크게 실패할 용기가 있는 자만이 크게 성취할 수 있다."
+      },
+      "from": {
+        "en": "John F. Kennedy",
+        "fr": "John F. Kennedy",
+        "ko": "존 F. 케네디"
+      },
+      "category": "motivational",
+      "tags": ["courage", "achievement"]
+    },
+    {
+      "id": "quote_6",
+      "translations": {
+        "en": "It is hard to fail, but it is worse never to have tried to succeed.",
+        "fr": "Il est difficile d'échouer, mais il est pire de ne jamais avoir essayé de réussir.",
+        "ko": "실패하기는 어렵지만, 성공을 시도하지 않는 것은 더 나쁘다."
+      },
+      "from": {
+        "en": "Theodore Roosevelt",
+        "fr": "Theodore Roosevelt",
+        "ko": "시어도어 루즈벨트"
+      },
+      "category": "motivational",
+      "tags": ["attempt", "regret"]
+    },
+    {
+      "id": "quote_7",
+      "translations": {
+        "en": "Imagination is more important than knowledge.",
+        "fr": "L'imagination est plus importante que le savoir.",
+        "ko": "상상력은 지식보다 중요하다."
+      },
+      "from": {
+        "en": "Albert Einstein",
+        "fr": "Albert Einstein",
+        "ko": "알베르트 아인슈타인"
+      },
+      "category": "inspirational",
+      "tags": ["creativity", "knowledge"]
     }
   ]
 }
